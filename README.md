@@ -5,6 +5,7 @@
 
 <h2>PowerBI Dashboard</h2>
 <p>Transferred SQL query results were used in Power BI to build a dashboard for visualization.</p>
+<p>Sales Insights Dashboard Snip</p>
 
 ![image 1](https://github.com/RajalakshmiSubramanian11/Small-Project/assets/173561058/3182bdad-ccdf-486d-a582-bbfc7672b6f8)
 
